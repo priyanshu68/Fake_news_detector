@@ -1,4 +1,4 @@
-# News Classifier using Logistic Regression and Streamlit
+# Fake News Classifier using Logistic Regression 
 
 This project is a simple news classifier that uses logistic regression for prediction. It is built using Python's NLTK library for text preprocessing, TfidfVectorizer for feature extraction, and Streamlit for creating a web application.
 
@@ -20,7 +20,7 @@ This project is a simple news classifier that uses logistic regression for predi
 
  1. Run the Streamlit app using the following command:
     ```bash
-        streamlit run app.py
+    streamlit run app.py
  2. Open the provided URL in your web browser to access the Fake News Detector.
  3. Enter a news article in the input text box and press Enter.
 
@@ -39,4 +39,3 @@ This project is a simple news classifier that uses logistic regression for predi
 ## 2. Streamlit Web Application:
    The Streamlit web application provides a user-friendly interface for users to input news articles and get predictions on their authenticity.
 
-## 2. Streamlit Web Application:
